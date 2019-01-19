@@ -1,0 +1,15 @@
+version: '3.4'
+services:
+    dappnodepackage-polkadot-alexander.public.dappnode.eth:
+        image: 'dappnodepackage-polkadot-alexander.public.dappnode.eth:0.0.1'
+        build: ./build
+        volumes:
+            - 'polkadot:/data'
+        environment:
+            - EXTRA_OPTS=--name 'small-testing'
+        ports:
+            - '30333:30333'
+            - '9933:9933'
+            - '9944:9944'
+volumes:
+    polkadot: {}

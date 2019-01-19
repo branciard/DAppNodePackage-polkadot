@@ -5,9 +5,9 @@
   "avatar": "avatar.png",
   "type": "library",
   "image": {
-    "path": "",
-    "hash": "",
-    "size": "",
+    "path": "dappnodepackage-polkadot-alexander.public.dappnode.eth_0.0.1.tar.xz",
+    "hash": "/ipfs/QmeujGsSLBZ8fK5XryhMCsgucCdzQQ6mVNtzZTGsUeCyaF",
+    "size": 10262438,
     "restart": "always",
     "volumes": [
       "polkadot:/data"
