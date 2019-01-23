@@ -8,6 +8,10 @@ No Aragon Package Manager Repo yet.
 
 build_0.0.1 of polkadot v3.0.2 ipfs link : QmcZCc71U81LVthjhVoXx72kKNvgaJFXmYJgZs1CoHWN1S
 
+##DEMO 
+
+<p align="center"><img src="/img/DappNodeAvadoSetup.gif.gif?raw=true"/></p>
+
 or can use this package without installing it in your DAppNode following these instructions:
 
 ## Prerequisites
