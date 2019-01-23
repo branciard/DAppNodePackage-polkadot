@@ -2,6 +2,7 @@
 
 Dappnode package providing polkadot alexander testnet chain [v3.0.2](https://github.com/paritytech/polkadot/commit/b28ff9e73e38a84a9638d6a1b489585597a1388d)
 
+It was generated using [DAppNodeSDK](https://github.com/dappnode/DAppNodeSDK)
 
 No Aragon Package Manager Repo yet.
 
