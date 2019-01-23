@@ -6,7 +6,7 @@ services:
         volumes:
             - 'polkadot:/data'
         environment:
-            - EXTRA_OPTS=--name 'small-testing'
+            - EXTRA_OPTS=
         ports:
             - '30333:30333'
             - '9933:9933'

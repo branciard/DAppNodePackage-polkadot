@@ -12,10 +12,8 @@ RUN apk add build-base \
     clang-libs \
     git
 
-# v0.3 branch = Alexander testnet
-# 'Riot chat consensus' on version 0.3.2 as commit b328153695d1a48771e92eca07a942479c6f83ef (no tag yet)
-# when build : polkadot v0.3.2 = branch v0.3 at commit b328153695d1a48771e92eca07a942479c6f83ef
-ARG VERSION=v0.3
+# v0.3.2 tag = Alexander testnet
+ARG VERSION=v0.3.2
 ARG PROFILE=release
 
 RUN git clone -b $VERSION https://github.com/paritytech/polkadot.git && cd polkadot && \
@@ -33,7 +31,7 @@ RUN apk add --no-cache ca-certificates \
 COPY --from=builder /usr/src/app/polkadot/target/$PROFILE/polkadot /usr/local/bin
 
 RUN rm -rf /usr/lib/python* && \
-	mkdir -p /root/.local/share/Polkadot && \
-	ln -s /root/.local/share/Polkadot /data
+	mkdir -p /root/.local/share/polkadot && \
+	ln -s /root/.local/share/polkadot /data
 
 ENTRYPOINT polkadot --chain alex --ws-external $EXTRA_OPTS

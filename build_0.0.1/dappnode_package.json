@@ -6,8 +6,8 @@
   "type": "library",
   "image": {
     "path": "dappnodepackage-polkadot-alexander.public.dappnode.eth_0.0.1.tar.xz",
-    "hash": "/ipfs/QmeujGsSLBZ8fK5XryhMCsgucCdzQQ6mVNtzZTGsUeCyaF",
-    "size": 10262438,
+    "hash": "/ipfs/QmcZCc71U81LVthjhVoXx72kKNvgaJFXmYJgZs1CoHWN1S",
+    "size": 10543816,
     "restart": "always",
     "volumes": [
       "polkadot:/data"
