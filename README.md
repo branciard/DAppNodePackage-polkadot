@@ -1,12 +1,12 @@
 # DAppNodePackage-polkadot-alexander
 
-Dappnode package providing polkadot alexander testnet chain [v3.0.2](https://github.com/paritytech/polkadot/commit/b28ff9e73e38a84a9638d6a1b489585597a1388d)
+Dappnode package providing polkadot alexander testnet chain [v3.0.4](https://github.com/paritytech/polkadot/commit/b28ff9e73e38a84a9638d6a1b489585597a1388d)
 
 It was generated using [DAppNodeSDK](https://github.com/dappnode/DAppNodeSDK)
 
 No Aragon Package Manager Repo yet.
 
-[build_0.0.1 of polkadot v3.0.2](https://github.com/branciard/DAppNodePackage-polkadot-alexander/releases/tag/v0.0.1) **ipfs link : QmcZCc71U81LVthjhVoXx72kKNvgaJFXmYJgZs1CoHWN1S**
+build_0.0.2 of polkadot v3.0.4 **ipfs link : QmdN2Lvqm1na6BgxrB2UC3oE1746PRrmr5cA9oAEGZbf4V**
 
 ## DEMO 
 

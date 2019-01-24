@@ -12,8 +12,8 @@ RUN apk add build-base \
     clang-libs \
     git
 
-# v0.3.2 tag = Alexander testnet
-ARG VERSION=v0.3.2
+# v0.3.4 tag = Alexander testnet
+ARG VERSION=v0.3.4
 ARG PROFILE=release
 
 RUN git clone -b $VERSION https://github.com/paritytech/polkadot.git && cd polkadot && \
@@ -30,8 +30,6 @@ RUN apk add --no-cache ca-certificates \
 
 COPY --from=builder /usr/src/app/polkadot/target/$PROFILE/polkadot /usr/local/bin
 
-RUN rm -rf /usr/lib/python* && \
-	mkdir -p /root/.local/share/polkadot && \
-	ln -s /root/.local/share/polkadot /data
+RUN rm -rf /usr/lib/python*
 
 ENTRYPOINT polkadot --chain alex --ws-external $EXTRA_OPTS
