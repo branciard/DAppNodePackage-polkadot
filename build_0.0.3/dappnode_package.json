@@ -1,0 +1,41 @@
+{
+  "name": "dappnodepackage-polkadot-alexander.public.dappnode.eth",
+  "version": "0.0.3",
+  "description": "DAppNode package for polkadot alexander testnet",
+  "avatar": "avatar.png",
+  "type": "library",
+  "image": {
+    "path": "dappnodepackage-polkadot-alexander.public.dappnode.eth_0.0.3.tar.xz",
+    "hash": "/ipfs/QmSujiqWeSKDnRoEJVYPXPqbYPHgQjy3HA4gSR8ADQafVy",
+    "size": 53056864,
+    "restart": "always",
+    "volumes": [
+      "polkadot:/root/.local/share/polkadot"
+    ],
+    "ports": [
+      "30333:30333",
+      "9933:9933",
+      "9944:9944"
+    ],
+    "environment": [
+      "EXTRA_OPTS"
+    ]
+  },
+  "author": "francois branciard (francoisbranciard@gmail.com)",
+  "keywords": [
+    "polkadot",
+    "testnet",
+    "alexander"
+  ],
+  "homepage": {
+    "homepage": "https://github.com/branciard/DAppNodePackage-polkadot-alexander#readme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branciard/DAppNodePackage-polkadot-alexander.git"
+  },
+  "bugs": {
+    "url": "https://github.com/branciard/DAppNodePackage-polkadot-alexander/issues"
+  },
+  "license": "GPL-3.0"
+}
