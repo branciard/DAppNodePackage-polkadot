@@ -6,7 +6,7 @@ It was generated using [DAppNodeSDK](https://github.com/dappnode/DAppNodeSDK)
 
 No Aragon Package Manager Repo yet.
 
-build_0.0.3 of polkadot v3.0.4 **ipfs link : ipfs/QmSujiqWeSKDnRoEJVYPXPqbYPHgQjy3HA4gSR8ADQafVy
+build_0.0.4 of polkadot v3.0.6 **ipfs/ipfs/Qmbo7WYcy1mVejrb3kaTo7YUfYjuwuPMqSLY35zCV7KFon
 
 ## DEMO 
 
