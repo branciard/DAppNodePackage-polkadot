@@ -1,13 +1,13 @@
 {
   "name": "dappnodepackage-polkadot-alexander.public.dappnode.eth",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "DAppNode package for polkadot alexander testnet",
   "avatar": "avatar.png",
   "type": "library",
   "image": {
-    "path": "dappnodepackage-polkadot-alexander.public.dappnode.eth_0.0.4.tar.xz",
-    "hash": "/ipfs/QmStnTiKxwRuJu1TbMpSsc9EXLNxUKMoARFpM7TR3dzWxf",
-    "size": 53240291,
+    "path": "dappnodepackage-polkadot-alexander.public.dappnode.eth_0.0.5.tar.xz",
+    "hash": "/ipfs/QmXFxQ7DB4S4vejLgAQfq1ochRwPYjsHzE68AR42Xk9YZV",
+    "size": 53045594,
     "restart": "always",
     "volumes": [
       "polkadot:/root/.local/share/polkadot"
