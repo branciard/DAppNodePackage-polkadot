@@ -1,4 +1,4 @@
 
-FROM emielvanderhoek/substrate-alexander:v0.3.18
+FROM chevdor/polkadot:0.4.4
 
 ENTRYPOINT polkadot --chain alex --ws-external $EXTRA_OPTS

@@ -6,8 +6,12 @@ It was generated using [DAppNodeSDK](https://github.com/dappnode/DAppNodeSDK)
 
 No Aragon Package Manager Repo yet.
 
-build_0.0.7 of polkadot  v0.3.18 **/ipfs/QmeDdFnwPiSbwcc3D4BSouE7adPVZBcmVo8oLYJk7nmn7L
-
+build_0.0.8 of polkadot v0.4.4
+```
+  DNP (DAppNode Package) built and uploaded
+  Manifest hash : /ipfs/QmZCmU26M25MNN7ekHpxuKcVLApqXKq9ono3SVJpSUbiHK
+  Install link  : http://my.dappnode/#/installer/%2Fipfs%2FQmZCmU26M25MNN7ekHpxuKcVLApqXKq9ono3SVJpSUbiHK
+```
 ## DEMO 
 
 
