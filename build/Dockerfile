@@ -1,4 +1,4 @@
 
-FROM chevdor/polkadot:0.4.4
+FROM parity/polkadot:v0.5.1
 
-ENTRYPOINT polkadot --chain alex --ws-external $EXTRA_OPTS
+ENTRYPOINT polkadot $EXTRA_OPTS

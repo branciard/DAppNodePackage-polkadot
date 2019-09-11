@@ -1,13 +1,13 @@
 {
-  "name": "dappnodepackage-polkadot-alexander.public.dappnode.eth",
-  "version": "0.0.8",
-  "description": "DAppNode package for polkadot alexander testnet",
+  "name": "dappnodepackage-polkadot.public.dappnode.eth",
+  "version": "1.0.0",
+  "description": "DAppNode package for polkadot",
   "avatar": "/ipfs/QmXzrwFYy5VfT9EnYtKkk9wL8WqHJrRosSGYTcCzz1atLi",
   "type": "library",
   "image": {
-    "path": "dappnodepackage-polkadot-alexander.public.dappnode.eth_0.0.8.tar.xz",
-    "hash": "/ipfs/QmdDQf8VjQwc7sbkvsA4wsP9iLJsUAuPiFxyghQe8eTw1C",
-    "size": 55536941,
+    "path": "dappnodepackage-polkadot.public.dappnode.eth_1.0.0.tar.xz",
+    "hash": "/ipfs/QmQwzvkL1fBN37f16ZLjNRzWnVgNTxYcP4SJ1RxXYQcGSR",
+    "size": 27473216,
     "restart": "always",
     "volumes": [
       "polkadot:/root/.local/share/polkadot"
@@ -18,24 +18,22 @@
       "9944:9944"
     ],
     "environment": [
-      "EXTRA_OPTS"
+      "EXTRA_OPTS=--name DAppNodeNodler"
     ]
   },
-  "author": "francois branciard (francoisbranciard@gmail.com)",
+  "author": "francois branciard (francoisbranciard@protonmail.com)",
   "keywords": [
-    "polkadot",
-    "testnet",
-    "alexander"
+    "polkadot"
   ],
   "homepage": {
-    "homepage": "https://github.com/branciard/DAppNodePackage-polkadot-alexander#readme"
+    "homepage": "https://github.com/branciard/DAppNodePackage-polkadot#readme"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/branciard/DAppNodePackage-polkadot-alexander.git"
+    "url": "git+https://github.com/branciard/DAppNodePackage-polkadot.git"
   },
   "bugs": {
-    "url": "https://github.com/branciard/DAppNodePackage-polkadot-alexander/issues"
+    "url": "https://github.com/branciard/DAppNodePackage-polkadot/issues"
   },
   "license": "GPL-3.0"
 }

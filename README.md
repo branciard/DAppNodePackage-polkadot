@@ -6,12 +6,16 @@ It was generated using [DAppNodeSDK](https://github.com/dappnode/DAppNodeSDK)
 
 No Aragon Package Manager Repo yet.
 
-build_0.0.8 of polkadot v0.4.4
-```
-  DNP (DAppNode Package) built and uploaded
-  Manifest hash : /ipfs/QmZCmU26M25MNN7ekHpxuKcVLApqXKq9ono3SVJpSUbiHK
-  Install link  : http://my.dappnode/#/installer/%2Fipfs%2FQmZCmU26M25MNN7ekHpxuKcVLApqXKq9ono3SVJpSUbiHK
-```
+
+  # build_1.0.0 of polkadot v0.5.1
+  # Manifest hash : 
+  
+  /ipfs/QmbmVRAhz2CCeCWz6pxajY3V7nWSxVhjoFFTYUGYEJK839
+  # Install link  :
+
+   http://my.dappnode/#/installer/%2Fipfs%2FQmbmVRAhz2CCeCWz6pxajY3V7nWSxVhjoFFTYUGYEJK839
+
+
 ## DEMO 
 
 
@@ -46,7 +50,7 @@ or can use this package without installing it in your DAppNode following these i
 
 `docker-compose up -d`
 
-Watch if your node start syncing at [Polkadot telemetry](https://telemetry.polkadot.io/#/Alexander)
+Watch if your node start syncing at [Polkadot telemetry](https://telemetry.polkadot.io)
 
 ### View logs
 
@@ -60,7 +64,7 @@ Watch if your node start syncing at [Polkadot telemetry](https://telemetry.polka
 
 You can write extra options on the adminui or edit the `docker-compose.yml` and add extra options, such as:
 ```
- - EXTRA_OPTS=--name 'alexander-dappnode-package-tester'
+ - EXTRA_OPTS=--name DAppNodeNodler
 ```
 
 ## License
