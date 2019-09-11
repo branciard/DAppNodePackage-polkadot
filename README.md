@@ -1,4 +1,4 @@
-# DAppNodePackage-polkadot-alexander
+# DAppNodePackage-polkadot
 
 Dappnode package providing polkadot alexander testnet chain 
 
