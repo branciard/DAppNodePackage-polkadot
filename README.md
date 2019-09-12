@@ -16,7 +16,12 @@ No Aragon Package Manager Repo yet.
    http://my.dappnode/#/installer/%2Fipfs%2FQmbmVRAhz2CCeCWz6pxajY3V7nWSxVhjoFFTYUGYEJK839
 
 
-## DEMO 
+
+# DEMO Deploy node KUSAMA canary network
+
+<p align="center"><img src="/img/polkadot-kusama-deploy.gif?raw=true"/></p>
+
+# DEMO Deploy node Alexander testnet
 
 
 <p align="center"><img src="/img/DappNodeAvadoSetup.gif?raw=true"/></p>
