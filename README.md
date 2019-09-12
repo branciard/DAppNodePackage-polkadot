@@ -1,6 +1,6 @@
 # DAppNodePackage-polkadot
 
-Dappnode package providing polkadot alexander testnet chain 
+Dappnode package providing for polkadot
 
 It was generated using [DAppNodeSDK](https://github.com/dappnode/DAppNodeSDK)
 
