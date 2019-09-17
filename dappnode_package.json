@@ -6,11 +6,11 @@
   "type": "library",
   "image": {
     "path": "dappnodepackage-polkadot.public.dappnode.eth_1.0.0.tar.xz",
-    "hash": "/ipfs/QmQwzvkL1fBN37f16ZLjNRzWnVgNTxYcP4SJ1RxXYQcGSR",
-    "size": 27473216,
+    "hash": "/ipfs/Qmdvwfhdmt5vQdZ1c6k7BgbT96i8VefCt45vcSM3sCaUj4",
+    "size": 27468840,
     "restart": "always",
     "volumes": [
-      "polkadot:/root/.local/share/polkadot"
+      "polkadot:/polkadot/.local/share/polkadot"
     ],
     "ports": [
       "30333:30333",

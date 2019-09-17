@@ -5,7 +5,7 @@ services:
         image: 'dappnodepackage-polkadot.public.dappnode.eth:1.0.0'
         build: ./build
         volumes:
-            - polkadot:/root/.local/share/polkadot
+            - polkadot:/polkadot/.local/share/polkadot
         environment:
             - EXTRA_OPTS=--name DAppNodeNodler
         ports:
