@@ -2,10 +2,10 @@ version: '3.4'
 
 services:
     dappnodepackage-polkadot.public.dappnode.eth:
-        image: 'dappnodepackage-polkadot.public.dappnode.eth:1.0.0'
+        image: 'dappnodepackage-polkadot.public.dappnode.eth:1.0.1'
         build: ./build
         volumes:
-            - polkadot:/polkadot/.local/share/polkadot
+            - polkadot:/polkadot
         environment:
             - EXTRA_OPTS=--name DAppNodeNodler
         ports:
