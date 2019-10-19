@@ -4,16 +4,13 @@ Dappnode package providing for polkadot
 
 It was generated using [DAppNodeSDK](https://github.com/dappnode/DAppNodeSDK)
 
-No Aragon Package Manager Repo yet.
 
 
-  # build_1.0.1 of polkadot v0.5.1
-  # Manifest hash : 
-  
-   /ipfs/QmSa6jHsa1QY4m393MBXsyX7bFmXjxmuUbQVcJFJwKeRkG
-  # Install link  :
+  # build_1.0.0
 
-   http://my.dappnode/#/installer/%2Fipfs%2FQmSa6jHsa1QY4m393MBXsyX7bFmXjxmuUbQVcJFJwKeRkG
+    DNP (DAppNode Package) published (version 1.0.0) 
+  Manifest hash : /ipfs/QmRheppC5ssSQvPemiT91QLwjbd3oaJBS8FGJ7ofMLLMds
+  Install link : http://my.dappnode/#/installer/%2Fipfs%2FQmRheppC5ssSQvPemiT91QLwjbd3oaJBS8FGJ7ofMLLMds
 
 
 
