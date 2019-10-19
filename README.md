@@ -21,11 +21,6 @@ No Aragon Package Manager Repo yet.
 
 <p align="center"><img src="/img/polkadot-kusama-deploy.gif?raw=true"/></p>
 
-# DEMO Deploy node Alexander testnet
-
-
-<p align="center"><img src="/img/DappNodeAvadoSetup.gif?raw=true"/></p>
-
 or can use this package without installing it in your DAppNode following these instructions:
 
 ## Prerequisites
