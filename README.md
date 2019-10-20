@@ -6,13 +6,6 @@ It was generated using [DAppNodeSDK](https://github.com/dappnode/DAppNodeSDK)
 
 
 
-  # build_1.0.0
-
-    DNP (DAppNode Package) published (version 1.0.0) 
-  Manifest hash : /ipfs/QmRheppC5ssSQvPemiT91QLwjbd3oaJBS8FGJ7ofMLLMds
-  Install link : http://my.dappnode/#/installer/%2Fipfs%2FQmRheppC5ssSQvPemiT91QLwjbd3oaJBS8FGJ7ofMLLMds
-
-
 
 # DEMO Deploy node KUSAMA canary network
 
