@@ -1,4 +1,4 @@
 
-FROM parity/polkadot:v0.6.2
+FROM parity/polkadot:v0.6.3
 
 ENTRYPOINT polkadot $EXTRA_OPTS
