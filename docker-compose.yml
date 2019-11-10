@@ -1,7 +1,7 @@
 version: '3.4'
 services:
   polkadot.public.dappnode.eth:
-    image: 'polkadot.public.dappnode.eth:1.2.4'
+    image: 'polkadot.public.dappnode.eth:1.2.5'
     build: ./build
     volumes:
       - 'polkadot:/polkadot'
