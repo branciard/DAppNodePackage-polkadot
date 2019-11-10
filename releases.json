@@ -46,5 +46,13 @@
       "dappnode": "Fri, 08 Nov 2019 16:30:04 GMT"
     },
     "link": "http://my.dappnode/#/sdk/publish/r=polkadot.public.dappnode.eth&v=1.2.3&h=%2Fipfs%2FQmXW1h5ENUs2Qa2ytwHHPQ2Rk44kEijA6QLudPrh6uRdNp"
+  },
+  "1.2.4": {
+    "hash": "/ipfs/Qmd8yK51oJj8DRChtzWNQ966HV1czrY63NC9fJATB8LGBd",
+    "type": "manifest",
+    "uploadedTo": {
+      "dappnode": "Sun, 10 Nov 2019 19:21:33 GMT"
+    },
+    "link": "http://my.dappnode/#/sdk/publish/r=polkadot.public.dappnode.eth&v=1.2.4&h=%2Fipfs%2FQmd8yK51oJj8DRChtzWNQ966HV1czrY63NC9fJATB8LGBd"
   }
 }
