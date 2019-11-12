@@ -1,13 +1,13 @@
 {
   "name": "polkadot.public.dappnode.eth",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "DAppNode package for polkadot",
   "avatar": "/ipfs/QmW7C2BGFmPgsycu6x54gzn21nxGySytmLyVk5qE2BFiDx",
   "type": "library",
   "image": {
-    "path": "polkadot.public.dappnode.eth_1.2.5.tar.xz",
-    "hash": "/ipfs/QmTPm4TBok3CkDPFM4uKYLA76ah4P9x2BYJztkvAQy7Cxa",
-    "size": 28984848,
+    "path": "polkadot.public.dappnode.eth_1.2.6.tar.xz",
+    "hash": "/ipfs/QmVNsCWMjhMRpMFwju14PwbzBkNV1V3qDh9uDMq69xSeWP",
+    "size": 28860768,
     "restart": "always",
     "volumes": [
       "polkadot:/polkadot"
