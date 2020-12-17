@@ -1,15 +1,15 @@
-version: '3.4'
+version: "3.4"
 services:
   polkadot.public.dappnode.eth:
-    image: 'polkadot.public.dappnode.eth:1.2.7'
+    image: "polkadot.public.dappnode.eth:1.3.0"
     build: ./build
     volumes:
-      - 'polkadot:/polkadot'
+      - "polkadot:/polkadot"
     environment:
       - EXTRA_OPTS=--name DAppNodeNodler
     ports:
-      - '30333:30333'
-      - '9933:9933'
-      - '9944:9944'
+      - "30333:30333"
+      - "9933:9933"
+      - "9944:9944"
 volumes:
   polkadot: {}
